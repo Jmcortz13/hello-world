@@ -1,4 +1,4 @@
 # hello-world
 My first repository on github
 
-I love swimming: reading: working out:.
+I love :swimming: :reading: :exercising:.
